@@ -1,0 +1,3 @@
+Model used : LightGBM
+Hyperparameters: Learning rate: 0.03, Estimators: 500, number of leaves: 7, max depth : -1 (no limit), l
+R2 score: training data : 0.9716424840781361, test data: 0.8809896438187045
